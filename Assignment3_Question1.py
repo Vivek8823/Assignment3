@@ -1,4 +1,4 @@
-rint("\nQuestion 1")
+print("\nQuestion 1")
 
 #input from user
 string_name=str(input("Enter the string:"))
